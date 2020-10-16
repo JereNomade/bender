@@ -1,0 +1,15 @@
+beautifulsoup4
+argparse
+requests
+gspread
+oauth2client
+selenium
+lxml
+google
+flask
+flask_socketio
+eventlet
+flask_cors
+simplejson
+pandas
+gunicorn
